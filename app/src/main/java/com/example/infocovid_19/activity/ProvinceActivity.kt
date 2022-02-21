@@ -12,8 +12,6 @@ import kotlinx.android.synthetic.main.activity_province.*
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
-import retrofit2.Retrofit
-import java.io.LineNumberReader
 
 class ProvinceActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
